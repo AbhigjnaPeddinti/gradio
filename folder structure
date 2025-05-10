@@ -1,0 +1,6 @@
+echofriend_gradio/
+├── app.py
+├── requirements.txt
+├── assets/
+│   └── logo.png
+└── README.md 
